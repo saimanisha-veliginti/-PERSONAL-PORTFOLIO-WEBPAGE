@@ -1,4 +1,14 @@
-# -PERSONAL-PORTFOLIO-WEBPAGE
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SAI MANISHA VELIGINTI
+
+INTERN ID:COD123
+
+DOMAIN: FRONTEND WEB DEVELOPMENT
+
+DURATION :6 WEEKS
+
+MENTOR: NEELA SANTOSH
 Task Performed
 The core task involved designing and building a basic responsive single-page portfolio website to showcase a developer’s skills and projects. The website includes navigation, sections such as About Me, Projects, and Contact, and utilizes modern web development practices to ensure both structure and design are clean, simple, and professional.
 
