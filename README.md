@@ -88,13 +88,3 @@ Easily extensible by adding animations, contact forms, or connecting with backen
 
 Conclusion
 This task demonstrates the fundamental ability to build and deploy a responsive, aesthetically pleasing single-page portfolio using HTML and CSS. It employs tools like Visual Studio Code and Live Server, enabling live development. The real-world utility of such a project spans job hunting, client work, skill practice, and digital personal branding. It’s a simple but essential step toward mastering web development and building a professional presence online.
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
